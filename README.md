@@ -73,15 +73,6 @@ The analysis is based on:
 - HDI significantly affects economic growth and convergence outcomes.
 - No separate convergence clubs were detected using the Phillips & Sul methodology.
 
-## Policy Implications
-
-The findings suggest that convergence is not automatic and requires policy support through:
-
-- Investment in education and healthcare
-- Improvement in infrastructure and technology
-- Targeted support for economically backward states
-- Policies promoting balanced regional development
-
 
 ## Tools & Software
 
